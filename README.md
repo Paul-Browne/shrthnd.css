@@ -198,4 +198,51 @@ class|attribute|value
 .pr-2    | padding-right| 2rem 
 .pr-3    | padding-right| 3rem 
 .pr-4    | padding-right| 4rem 
+ | |  
+.tt-u   | text-transform| uppercase 
+.tt-l   | text-transform| lowercase 
+.tt-n   | text-transform| none 
+ | | 
+.td-u   | text-decoration| underline 
+.td-n   | text-decoration| none 
+ | | 
+.ta-c   | text-align| center 
+.ta-l   | text-align| left 
+.ta-r   | text-align| right 
+ | | 
+.ff-custom | font-family| "custom" 
+ | | 
+.fs-12  | font-size| 0.75rem 
+.fs-14  | font-size| 0.875rem 
+.fs-16  | font-size| 1rem 
+.fs-18  | font-size| 1.125rem 
+.fs-20  | font-size| 1.25rem 
+.fs-24  | font-size| 1.5rem 
+.fs-28  | font-size| 1.75rem 
+.fs-32  | font-size| 2rem 
+.fs-36  | font-size| 2.25rem 
+.fs-40  | font-size| 2.5rem 
+.fs-44  | font-size| 2.75rem 
+.fs-48  | font-size| 3rem 
+ | | 
+.fw-100 | font-weight| 100 
+.fw-200 | font-weight| 200 
+.fw-300 | font-weight| 300 
+.fw-400 | font-weight| 400 
+.fw-500 | font-weight| 500 
+.fw-600 | font-weight| 600 
+.fw-700 | font-weight| 700 
+.fw-800 | font-weight| 800 
+.fw-900 | font-weight| 900 
+ | | 
+.lh-1   | line-height| 1 
+.lh-11  | line-height| 1.1 
+.lh-115 | line-height| 1.15 
+.lh-12  | line-height| 1.2 
+.lh-125 | line-height| 1.25 
+.lh-13  | line-height| 1.3 
+.lh-135 | line-height| 1.35 
+.lh-14  | line-height| 1.4 
+.lh-145 | line-height| 1.45 
+.lh-15  | line-height| 1.5 
  | | 
