@@ -92,12 +92,29 @@ class|attribute|value
 .fb-8     | flex-basis | 8rem 
 .fb-9     | flex-basis | 9rem 
 &nbsp; | &nbsp; | &nbsp;
+.fs-0     | flex-shrink | 0
+.fs-1     | flex-shrink | 1
+.fs-2     | flex-shrink | 2
+.fs-3     | flex-shrink | 3
+.fs-4     | flex-shrink | 4
+.fs-5     | flex-shrink | 5
+&nbsp; | &nbsp; | &nbsp;
+.fg-0     | flex-grow | 0
+.fg-1     | flex-grow | 1
+.fg-2     | flex-grow | 2
+.fg-3     | flex-grow | 3
+.fg-4     | flex-grow | 4
+.fg-5     | flex-grow | 5
+&nbsp; | &nbsp; | &nbsp;
+.f-01a     | flex | 0 1 auto
+&nbsp; | &nbsp; | &nbsp;
 .mw-n    | max-width | none
 .mw-60   | max-width | 60rem
 .mw-65   | max-width | 65rem
 .mw-70   | max-width | 70rem
 .mw-75   | max-width | 75rem
 .mw-80   | max-width | 80rem
+.mw-100  | max-width | 100%
 &nbsp; | &nbsp; | &nbsp;
 .w-1-1   | width| 100% 
 .w-1-2   | width| 50% 
@@ -112,6 +129,7 @@ class|attribute|value
 .w-7-12  | width| 58.333% 
 .w-11-12 | width| 91.666% 
 &nbsp; | &nbsp; | &nbsp;
+.w-a     | width| auto 
 .w-1     | width| 1rem 
 .w-15    | width| 1.5rem 
 .w-2     | width| 2rem 
@@ -136,6 +154,7 @@ class|attribute|value
 .h-7-12  | height| 58.333% 
 .h-11-12 | height| 91.666% 
 &nbsp; | &nbsp; | &nbsp;
+.h-a     | height| auto 
 .h-1     | height| 1rem 
 .h-15    | height| 1.5rem 
 .h-2     | height| 2rem 
@@ -146,6 +165,10 @@ class|attribute|value
 .h-7     | height| 7rem 
 .h-8     | height| 8rem 
 .h-9     | height| 9rem 
+.h-25    | height| 25vh
+.h-50    | height| 50vh
+.h-75    | height| 75vh 
+.h-100   | height| 100vh 
 &nbsp; | &nbsp; | &nbsp;
 .m-a     | margin-left | auto 
 &nbsp; | margin-right | auto 
@@ -229,6 +252,11 @@ class|attribute|value
 .pr-2    | padding-right| 2rem 
 .pr-3    | padding-right| 3rem 
 .pr-4    | padding-right| 4rem 
+&nbsp; | &nbsp; | &nbsp;
+.p-a    | position| absolute
+.p-r    | position| relative
+.p-s    | position| static
+.p-f    | position| fixed
 &nbsp; | &nbsp; | &nbsp;
 .tt-u   | text-transform| uppercase 
 .tt-l   | text-transform| lowercase 
