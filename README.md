@@ -117,7 +117,7 @@ class|attribute|value
 .h-9     | height| 9rem 
  | | 
 .m-a     | margin-left | auto 
- | margin-right | auto | 
+&nbsp | margin-right | auto | 
  | | 
 .m-0     | margin| 0 
 .m-05    | margin| 0.5rem 
