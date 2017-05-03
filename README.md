@@ -81,11 +81,23 @@ class|attribute|value
 .fb-7-12  | flex-basis | 58.333% 
 .fb-11-12 | flex-basis | 91.666% 
  | | 
-.mw-60   | max-width | 60rem  // 960px  
-.mw-65   | max-width | 65rem  // 1040px 
-.mw-70   | max-width | 70rem  // 1120px 
-.mw-75   | max-width | 75rem  // 1200px 
-.mw-80   | max-width | 80rem  // 1280px 
+.fb-1     | flex-basis | 1rem 
+.fb-15    | flex-basis | 1.5rem 
+.fb-2     | flex-basis | 2rem 
+.fb-3     | flex-basis | 3rem 
+.fb-4     | flex-basis | 4rem 
+.fb-5     | flex-basis | 5rem 
+.fb-6     | flex-basis | 6rem 
+.fb-7     | flex-basis | 7rem 
+.fb-8     | flex-basis | 8rem 
+.fb-9     | flex-basis | 9rem 
+ | | 
+.mw-n    | max-width | none
+.mw-60   | max-width | 60rem
+.mw-65   | max-width | 65rem
+.mw-70   | max-width | 70rem
+.mw-75   | max-width | 75rem
+.mw-80   | max-width | 80rem
  | | 
 .w-1-1   | width| 100% 
 .w-1-2   | width| 50% 
@@ -275,7 +287,7 @@ class|attribute|value
 .ba-s  | background-attachment| scroll 
  | | 
 .bp-c     | background-position-x | center 
-&nbsp; | background-position-y | center  
+&nbsp; | background-position-y | center | 
  | | 
 .bpx-c | background-position-x| center 
 .bpx-l | background-position-x| left 
@@ -283,3 +295,8 @@ class|attribute|value
 .bpy-c | background-position-y| center 
 .bpy-t | background-position-y| top 
 .bpy-b | background-position-y| bottom 
+ | | 
+.o-h | overflow | hidden 
+ | | 
+.v-h | visibility | hidden 
+.v-v | visibility | visible 
