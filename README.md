@@ -25,7 +25,6 @@ The class `.hero-container` tells you nothing about what it does
 
 #### cheatsheet
 
-
 class|attribute|value|responsive
 -|-|-|-
 .d-f|display|flex|:ballot_box_with_check:
@@ -116,3 +115,84 @@ class|attribute|value|responsive
 .h-7     | height| 7rem |:ballot_box_with_check:
 .h-8     | height| 8rem |:ballot_box_with_check:
 .h-9     | height| 9rem |:ballot_box_with_check:
+ | | | 
+.m-0     | margin| 0 |:ballot_box_with_check:
+.m-05    | margin| 0.5rem |:ballot_box_with_check:
+.m-1     | margin| 1rem |:ballot_box_with_check:
+.m-15    | margin| 1.5rem |:ballot_box_with_check:
+.m-2     | margin| 2rem |:ballot_box_with_check:
+.m-3     | margin| 3rem |:ballot_box_with_check:
+.m-4     | margin| 4rem |:ballot_box_with_check:
+ | | | 
+.mt-0    | margin-top| 0 |:ballot_box_with_check:
+.mt-05   | margin-top| 0.5rem |:ballot_box_with_check:
+.mt-1    | margin-top| 1rem |:ballot_box_with_check:
+.mt-15   | margin-top| 1.5rem |:ballot_box_with_check:
+.mt-2    | margin-top| 2rem |:ballot_box_with_check:
+.mt-3    | margin-top| 3rem |:ballot_box_with_check:
+.mt-4    | margin-top| 4rem |:ballot_box_with_check:
+ | | | 
+.mb-0    | margin-bottom| 0 |:ballot_box_with_check:
+.mb-05   | margin-bottom| 0.5rem |:ballot_box_with_check:
+.mb-1    | margin-bottom| 1rem |:ballot_box_with_check:
+.mb-15   | margin-bottom| 1.5rem |:ballot_box_with_check:
+.mb-2    | margin-bottom| 2rem |:ballot_box_with_check:
+.mb-3    | margin-bottom| 3rem |:ballot_box_with_check:
+.mb-4    | margin-bottom| 4rem |:ballot_box_with_check:
+ | | | 
+.ml-0    | margin-left| 0 |:ballot_box_with_check:
+.ml-05   | margin-left| 0.5rem |:ballot_box_with_check:
+.ml-1    | margin-left| 1rem |:ballot_box_with_check:
+.ml-15   | margin-left| 1.5rem |:ballot_box_with_check:
+.ml-2    | margin-left| 2rem |:ballot_box_with_check:
+.ml-3    | margin-left| 3rem |:ballot_box_with_check:
+.ml-4    | margin-left| 4rem |:ballot_box_with_check:
+ | | | 
+.mr-0    | margin-right| 0 |:ballot_box_with_check:
+.mr-05   | margin-right| 0.5rem |:ballot_box_with_check:
+.mr-1    | margin-right| 1rem |:ballot_box_with_check:
+.mr-15   | margin-right| 1.5rem |:ballot_box_with_check:
+.mr-2    | margin-right| 2rem |:ballot_box_with_check:
+.mr-3    | margin-right| 3rem |:ballot_box_with_check:
+.mr-4    | margin-right| 4rem |:ballot_box_with_check:
+ | | | 
+.p-0     | padding| 0 |:ballot_box_with_check:
+.p-05    | padding| 0.5rem |:ballot_box_with_check:
+.p-1     | padding| 1rem |:ballot_box_with_check:
+.p-15    | padding| 1.5rem |:ballot_box_with_check:
+.p-2     | padding| 2rem |:ballot_box_with_check:
+.p-3     | padding| 3rem |:ballot_box_with_check:
+.p-4     | padding| 4rem |:ballot_box_with_check:
+ | | | 
+.pt-0    | padding-top| 0 |:ballot_box_with_check:
+.pt-05   | padding-top| 0.5rem |:ballot_box_with_check:
+.pt-1    | padding-top| 1rem |:ballot_box_with_check:
+.pt-15   | padding-top| 1.5rem |:ballot_box_with_check:
+.pt-2    | padding-top| 2rem |:ballot_box_with_check:
+.pt-3    | padding-top| 3rem |:ballot_box_with_check:
+.pt-4    | padding-top| 4rem |:ballot_box_with_check:
+ | | | 
+.pb-0    | padding-bottom| 0 |:ballot_box_with_check:
+.pb-05   | padding-bottom| 0.5rem |:ballot_box_with_check:
+.pb-1    | padding-bottom| 1rem |:ballot_box_with_check:
+.pb-15   | padding-bottom| 1.5rem |:ballot_box_with_check:
+.pb-2    | padding-bottom| 2rem |:ballot_box_with_check:
+.pb-3    | padding-bottom| 3rem |:ballot_box_with_check:
+.pb-4    | padding-bottom| 4rem |:ballot_box_with_check:
+ | | | 
+.pl-0    | padding-left| 0 |:ballot_box_with_check:
+.pl-05   | padding-left| 0.5rem |:ballot_box_with_check:
+.pl-1    | padding-left| 1rem |:ballot_box_with_check:
+.pl-15   | padding-left| 1.5rem |:ballot_box_with_check:
+.pl-2    | padding-left| 2rem |:ballot_box_with_check:
+.pl-3    | padding-left| 3rem |:ballot_box_with_check:
+.pl-4    | padding-left| 4rem |:ballot_box_with_check:
+ | | | 
+.pr-0    | padding-right| 0 |:ballot_box_with_check:
+.pr-05   | padding-right| 0.5rem |:ballot_box_with_check:
+.pr-1    | padding-right| 1rem |:ballot_box_with_check:
+.pr-15   | padding-right| 1.5rem |:ballot_box_with_check:
+.pr-2    | padding-right| 2rem |:ballot_box_with_check:
+.pr-3    | padding-right| 3rem |:ballot_box_with_check:
+.pr-4    | padding-right| 4rem |:ballot_box_with_check:
+ | | | 
