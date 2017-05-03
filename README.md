@@ -68,6 +68,19 @@ class|attribute|value
 .as-s    | align-self|stretch 
 .as-b    | align-self|baseline 
  | | 
+.fb-1-1   | flex-basis | 100% 
+.fb-1-2   | flex-basis | 50% 
+.fb-1-3   | flex-basis | 33.333% 
+.fb-2-3   | flex-basis | 66.666% 
+.fb-1-4   | flex-basis | 25% 
+.fb-3-4   | flex-basis | 75% 
+.fb-1-6   | flex-basis | 16.666% 
+.fb-5-6   | flex-basis | 83.333% 
+.fb-1-12  | flex-basis | 8.333% 
+.fb-5-12  | flex-basis | 41.666% 
+.fb-7-12  | flex-basis | 58.333% 
+.fb-11-12 | flex-basis | 91.666% 
+ | | 
 .w-1-1   | width| 100% 
 .w-1-2   | width| 50% 
 .w-1-3   | width| 33.333% 
@@ -117,7 +130,7 @@ class|attribute|value
 .h-9     | height| 9rem 
  | | 
 .m-a     | margin-left | auto 
-&nbsp | margin-right | auto | 
+&nbsp | margin-right | auto 
  | | 
 .m-0     | margin| 0 
 .m-05    | margin| 0.5rem 
@@ -198,7 +211,7 @@ class|attribute|value
 .pr-2    | padding-right| 2rem 
 .pr-3    | padding-right| 3rem 
 .pr-4    | padding-right| 4rem 
- | |  
+ | | 
 .tt-u   | text-transform| uppercase 
 .tt-l   | text-transform| lowercase 
 .tt-n   | text-transform| none 
@@ -246,3 +259,21 @@ class|attribute|value
 .lh-145 | line-height| 1.45 
 .lh-15  | line-height| 1.5 
  | | 
+.va-m | vertical-align| middle 
+ | | 
+.bs-c  | background-size| cover 
+ | | 
+.br-nr | background-repeat| no-repeat 
+ | | 
+.ba-f  | background-attachment| fixed 
+.ba-s  | background-attachment| scroll 
+ | | 
+.bp-c     | background-position-x | center 
+&nbsp | background-position-y | center | 
+ | | 
+.bpx-c | background-position-x| center 
+.bpx-l | background-position-x| left 
+.bpx-r | background-position-x| right 
+.bpy-c | background-position-y| center 
+.bpy-t | background-position-y| top 
+.bpy-b | background-position-y| bottom 
