@@ -25,6 +25,7 @@ The class `.hero-container` tells you nothing about what it does
 
 #### cheatsheet
 
+
 class|attribute|value|responsive
 -|-|-|-
 .d-f|display|flex|:ballot_box_with_check:
@@ -115,6 +116,9 @@ class|attribute|value|responsive
 .h-7     | height| 7rem |:ballot_box_with_check:
 .h-8     | height| 8rem |:ballot_box_with_check:
 .h-9     | height| 9rem |:ballot_box_with_check:
+ | | | 
+.m-a     | margin-left | auto |:ballot_box_with_check:
+&nbsp;     | margin-right | auto |:ballot_box_with_check:
  | | | 
 .m-0     | margin| 0 |:ballot_box_with_check:
 .m-05    | margin| 0.5rem |:ballot_box_with_check:
