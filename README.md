@@ -33,41 +33,41 @@ class|attribute|value
 .d-i|display|inline
 .d-ib|display|inline-block
 .d-n|display|none
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .fw-w|flex-wrap|wrap
 .fw-n|flex-wrap|nowrap
 .fw-wr|flex-wrap|wrap-reverse
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .fd-r    | flex-direction|row 
 .fd-c    | flex-direction|column 
 .fd-rr   | flex-direction|row-reverse 
 .fd-cr   | flex-direction|column-reverse 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .jc-c    | justify-content|center 
 .jc-fs   | justify-content|flex-start 
 .jc-fe   | justify-content|flex-end 
 .jc-sa   | justify-content|space-around 
 .jc-sb   | justify-content|space-between 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .ai-c    | align-items|center 
 .ai-fs   | align-items|flex-start 
 .ai-fe   | align-items|flex-end 
 .ai-s    | align-items|stretch 
 .ai-b    | align-items|baseline 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .ac-c    | align-content|center 
 .ac-fs   | align-content|flex-start 
 .ac-fe   | align-content|flex-end 
 .ac-sa   | align-content|space-around 
 .ac-sb   | align-content|space-between 
 .ac-s    | align-content|stretch 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .as-c    | align-self|center 
 .as-fs   | align-self|flex-start 
 .as-fe   | align-self|flex-end 
 .as-s    | align-self|stretch 
 .as-b    | align-self|baseline 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .fb-1-1   | flex-basis | 100% 
 .fb-1-2   | flex-basis | 50% 
 .fb-1-3   | flex-basis | 33.333% 
@@ -80,7 +80,7 @@ class|attribute|value
 .fb-5-12  | flex-basis | 41.666% 
 .fb-7-12  | flex-basis | 58.333% 
 .fb-11-12 | flex-basis | 91.666% 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .fb-1     | flex-basis | 1rem 
 .fb-15    | flex-basis | 1.5rem 
 .fb-2     | flex-basis | 2rem 
@@ -91,14 +91,14 @@ class|attribute|value
 .fb-7     | flex-basis | 7rem 
 .fb-8     | flex-basis | 8rem 
 .fb-9     | flex-basis | 9rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .mw-n    | max-width | none
 .mw-60   | max-width | 60rem
 .mw-65   | max-width | 65rem
 .mw-70   | max-width | 70rem
 .mw-75   | max-width | 75rem
 .mw-80   | max-width | 80rem
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .w-1-1   | width| 100% 
 .w-1-2   | width| 50% 
 .w-1-3   | width| 33.333% 
@@ -111,7 +111,7 @@ class|attribute|value
 .w-5-12  | width| 41.666% 
 .w-7-12  | width| 58.333% 
 .w-11-12 | width| 91.666% 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .w-1     | width| 1rem 
 .w-15    | width| 1.5rem 
 .w-2     | width| 2rem 
@@ -122,7 +122,7 @@ class|attribute|value
 .w-7     | width| 7rem 
 .w-8     | width| 8rem 
 .w-9     | width| 9rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .h-1-1   | height| 100% 
 .h-1-2   | height| 50% 
 .h-1-3   | height| 33.333% 
@@ -135,7 +135,7 @@ class|attribute|value
 .h-5-12  | height| 41.666% 
 .h-7-12  | height| 58.333% 
 .h-11-12 | height| 91.666% 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .h-1     | height| 1rem 
 .h-15    | height| 1.5rem 
 .h-2     | height| 2rem 
@@ -146,10 +146,10 @@ class|attribute|value
 .h-7     | height| 7rem 
 .h-8     | height| 8rem 
 .h-9     | height| 9rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .m-a     | margin-left | auto 
 &nbsp; | margin-right | auto 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .m-0     | margin| 0 
 .m-05    | margin| 0.5rem 
 .m-1     | margin| 1rem 
@@ -157,7 +157,7 @@ class|attribute|value
 .m-2     | margin| 2rem 
 .m-3     | margin| 3rem 
 .m-4     | margin| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .mt-0    | margin-top| 0 
 .mt-05   | margin-top| 0.5rem 
 .mt-1    | margin-top| 1rem 
@@ -165,7 +165,7 @@ class|attribute|value
 .mt-2    | margin-top| 2rem 
 .mt-3    | margin-top| 3rem 
 .mt-4    | margin-top| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .mb-0    | margin-bottom| 0 
 .mb-05   | margin-bottom| 0.5rem 
 .mb-1    | margin-bottom| 1rem 
@@ -173,7 +173,7 @@ class|attribute|value
 .mb-2    | margin-bottom| 2rem 
 .mb-3    | margin-bottom| 3rem 
 .mb-4    | margin-bottom| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .ml-0    | margin-left| 0 
 .ml-05   | margin-left| 0.5rem 
 .ml-1    | margin-left| 1rem 
@@ -181,7 +181,7 @@ class|attribute|value
 .ml-2    | margin-left| 2rem 
 .ml-3    | margin-left| 3rem 
 .ml-4    | margin-left| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .mr-0    | margin-right| 0 
 .mr-05   | margin-right| 0.5rem 
 .mr-1    | margin-right| 1rem 
@@ -189,7 +189,7 @@ class|attribute|value
 .mr-2    | margin-right| 2rem 
 .mr-3    | margin-right| 3rem 
 .mr-4    | margin-right| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .p-0     | padding| 0 
 .p-05    | padding| 0.5rem 
 .p-1     | padding| 1rem 
@@ -197,7 +197,7 @@ class|attribute|value
 .p-2     | padding| 2rem 
 .p-3     | padding| 3rem 
 .p-4     | padding| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .pt-0    | padding-top| 0 
 .pt-05   | padding-top| 0.5rem 
 .pt-1    | padding-top| 1rem 
@@ -205,7 +205,7 @@ class|attribute|value
 .pt-2    | padding-top| 2rem 
 .pt-3    | padding-top| 3rem 
 .pt-4    | padding-top| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .pb-0    | padding-bottom| 0 
 .pb-05   | padding-bottom| 0.5rem 
 .pb-1    | padding-bottom| 1rem 
@@ -213,7 +213,7 @@ class|attribute|value
 .pb-2    | padding-bottom| 2rem 
 .pb-3    | padding-bottom| 3rem 
 .pb-4    | padding-bottom| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .pl-0    | padding-left| 0 
 .pl-05   | padding-left| 0.5rem 
 .pl-1    | padding-left| 1rem 
@@ -221,7 +221,7 @@ class|attribute|value
 .pl-2    | padding-left| 2rem 
 .pl-3    | padding-left| 3rem 
 .pl-4    | padding-left| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .pr-0    | padding-right| 0 
 .pr-05   | padding-right| 0.5rem 
 .pr-1    | padding-right| 1rem 
@@ -229,20 +229,20 @@ class|attribute|value
 .pr-2    | padding-right| 2rem 
 .pr-3    | padding-right| 3rem 
 .pr-4    | padding-right| 4rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .tt-u   | text-transform| uppercase 
 .tt-l   | text-transform| lowercase 
 .tt-n   | text-transform| none 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .td-u   | text-decoration| underline 
 .td-n   | text-decoration| none 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .ta-c   | text-align| center 
 .ta-l   | text-align| left 
 .ta-r   | text-align| right 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .ff-custom | font-family| "custom" 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .fs-12  | font-size| 0.75rem 
 .fs-14  | font-size| 0.875rem 
 .fs-16  | font-size| 1rem 
@@ -255,7 +255,7 @@ class|attribute|value
 .fs-40  | font-size| 2.5rem 
 .fs-44  | font-size| 2.75rem 
 .fs-48  | font-size| 3rem 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .fw-100 | font-weight| 100 
 .fw-200 | font-weight| 200 
 .fw-300 | font-weight| 300 
@@ -265,7 +265,7 @@ class|attribute|value
 .fw-700 | font-weight| 700 
 .fw-800 | font-weight| 800 
 .fw-900 | font-weight| 900 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .lh-1   | line-height| 1 
 .lh-11  | line-height| 1.1 
 .lh-115 | line-height| 1.15 
@@ -276,27 +276,27 @@ class|attribute|value
 .lh-14  | line-height| 1.4 
 .lh-145 | line-height| 1.45 
 .lh-15  | line-height| 1.5 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .va-m | vertical-align| middle 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .bs-c  | background-size| cover 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .br-nr | background-repeat| no-repeat 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .ba-f  | background-attachment| fixed 
 .ba-s  | background-attachment| scroll 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .bp-c     | background-position-x | center 
 &nbsp; | background-position-y | center | 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .bpx-c | background-position-x| center 
 .bpx-l | background-position-x| left 
 .bpx-r | background-position-x| right 
 .bpy-c | background-position-y| center 
 .bpy-t | background-position-y| top 
 .bpy-b | background-position-y| bottom 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .o-h | overflow | hidden 
- | | 
+&nbsp; | &nbsp; | &nbsp;
 .v-h | visibility | hidden 
 .v-v | visibility | visible 
