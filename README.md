@@ -1,7 +1,7 @@
 # shrthnd.css
 d-f = display:flex; you get the idea! :smile:
 
-3.2kb when minified and gzipped
+4kb when minified and gzipped
 
 #### whats the general idea?
 
