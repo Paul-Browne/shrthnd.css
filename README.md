@@ -80,6 +80,9 @@ class|property|value
 .d-ib|display|inline-block
 .d-if|display|inline-flex
 .d-n|display|none
+.f-l|float|left
+.f-r|float|right
+.f-n|float|none
 .fd-c|flex-direction|column
 .fd-cr|flex-direction|column-reverse
 .fd-r|flex-direction|row
