@@ -97,6 +97,9 @@
 .bs-cb {
     box-sizing: content-box
 }
+.c-b {
+    clear: both;
+}
 .d-b {
     display: block
 }
@@ -114,6 +117,15 @@
 }
 .d-n {
     display: none
+}
+.f-l {
+    float: left;
+}
+.f-r {
+    float: right;
+}
+.f-n {
+    float: none;
 }
 .fd-c {
     flex-direction: column
@@ -1113,6 +1125,9 @@
     .l_bs-cb {
         box-sizing: content-box
     }
+    .l_c-b {
+        clear: both;
+    }
     .l_d-b {
         display: block
     }
@@ -1130,6 +1145,15 @@
     }
     .l_d-n {
         display: none
+    }
+    .l_f-l {
+        float: left;
+    }
+    .l_f-r {
+        float: right;
+    }
+    .l_f-n {
+        float: none;
     }
     .l_fd-c {
         flex-direction: column
@@ -2130,6 +2154,9 @@
     .t_bs-cb {
         box-sizing: content-box
     }
+    .t_c-b {
+        clear: both;
+    }
     .t_d-b {
         display: block
     }
@@ -2147,6 +2174,15 @@
     }
     .t_d-n {
         display: none
+    }
+    .t_f-l {
+        float: left;
+    }
+    .t_f-r {
+        float: right;
+    }
+    .t_f-n {
+        float: none;
     }
     .t_fd-c {
         flex-direction: column
@@ -3141,6 +3177,9 @@
     .tp_bs-cb {
         box-sizing: content-box
     }
+    .tp_c-b {
+        clear: both;
+    }
     .tp_d-b {
         display: block
     }
@@ -3158,6 +3197,15 @@
     }
     .tp_d-n {
         display: none
+    }
+    .tp_f-l {
+        float: left;
+    }
+    .tp_f-r {
+        float: right;
+    }
+    .tp_f-n {
+        float: none;
     }
     .tp_fd-c {
         flex-direction: column
@@ -4140,6 +4188,9 @@
     .m_bs-cb {
         box-sizing: content-box
     }
+    .m_c-b {
+        clear: both;
+    }
     .m_d-b {
         display: block
     }
@@ -4157,6 +4208,15 @@
     }
     .m_d-n {
         display: none
+    }
+    .m_f-l {
+        float: left;
+    }
+    .m_f-r {
+        float: right;
+    }
+    .m_f-n {
+        float: none;
     }
     .m_fd-c {
         flex-direction: column
@@ -5127,6 +5187,9 @@
     .mp_bs-cb {
         box-sizing: content-box
     }
+    .mp_c-b {
+        clear: both;
+    }
     .mp_d-b {
         display: block
     }
@@ -5144,6 +5207,15 @@
     }
     .mp_d-n {
         display: none
+    }
+    .mp_f-l {
+        float: left;
+    }
+    .mp_f-r {
+        float: right;
+    }
+    .mp_f-n {
+        float: none;
     }
     .mp_fd-c {
         flex-direction: column
