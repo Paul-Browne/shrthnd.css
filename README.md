@@ -3,7 +3,7 @@
 * ~8kb when minified and gzipped
 * responsive (6 breakpoints)
 
-**shrthnd.css** is a utility css or atomic css framework, basically every class has **one job, and one job only**
+**shrthnd.css** is a utility css or atomic css framework. Basically every class has **one job and one job only**
 
 #### whats the general idea?
 
