@@ -74,6 +74,7 @@ class|property|value
 .bs-cnt|background-size|contain
 .bs-bb|box-sizing|border-box
 .bs-cb|box-sizing|content-box
+.c-b|clear|both
 .d-b|display|block
 .d-f|display|flex
 .d-i|display|inline
