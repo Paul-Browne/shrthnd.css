@@ -7,10 +7,38 @@
 
 #### whats the general idea?
 
+read :point_down:
 
+* [css-tricks - growing popularity of atomic css](https://css-tricks.com/growing-popularity-atomic-css/)
+* [css-tricks - so you need a css library?](https://css-tricks.com/need-css-utility-library/)
+* [css-tricks - lets define exactly atomic css](https://css-tricks.com/lets-define-exactly-atomic-css/)
+* [David Clark - the role of utility classes in scalable css](http://davidtheclark.com/on-utility-classes/)
+* [Made by many - takeaways from trying out tachyons css after ages using bem](https://madebymany.com/stories/takeaways-from-trying-out-tachyons-css-after-ages-using-bem)
+* [Smashing magazine - challenging css best practices atomic approach](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/)
+* [Adam Wathan - css utility classes and separation of concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+
+other similar frameworks
+
+* [Tachyons](http://tachyons.io/)
+* [Basscss](http://basscss.com/)
+* [Tailwind](https://tailwindcss.com/)
+* [Shed](http://tedconf.github.io/shed-css/index.html)
+* [Expressive css](http://johnpolacek.github.io/expressive-css/)
 
 
 #### cheatsheet
+
+prefix|size|example
+--|--|--
+&nbsp;|all screen sizes|.w-1-3 { width: 33.333% }
+l_|max-width: 95em (1480px)|.l_w-1-3 { width: 33.333% }
+t_|max-width: 82.5em (1320px)|.t_w-1-3 { width: 33.333% }
+tp_|max-width: 62.5em (1000px)|.tp_w-1-3 { width: 33.333% }
+m_|max-width: 45em (720px)|.m_w-1-3 { width: 33.333% }
+mp_|max-width: 25em (400px)|.mp_w-1-3 { width: 33.333% }
+
+
+
 class|property|value
 --|--|--
 .ac-c|align-content|center
