@@ -1,6 +1,6 @@
 # shrthnd.css
 * `.d-f { display:flex }` you get the idea! :smile:
-* ~8kb when minified and gzipped
+* ~8kb when minified and gzipped (~2kb without breakpoints)
 * responsive (6 breakpoints)
 
 **shrthnd.css** is a utility css or atomic css framework. Basically every class has **one job and one job only**
